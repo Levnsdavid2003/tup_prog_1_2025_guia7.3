@@ -48,6 +48,8 @@ namespace ejercicio3
             {
                 Console.WriteLine("No se ingresaron números o el número no pertenece al rango.");
             }
+
+            Console.ReadKey();
         }
     }
 }

@@ -78,8 +78,7 @@ Resultados:
                 Console.WriteLine("No hubo encuestados.");
             }
 
-
-
+            Console.ReadKey();
         }
     }
 }

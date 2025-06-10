@@ -25,6 +25,8 @@ namespace ejercicio1
             promedio = acum / 20;
 
             Console.WriteLine("El promedio de los 20 números es: " + promedio);
+
+            Console.ReadKey();
         }
     }
 }

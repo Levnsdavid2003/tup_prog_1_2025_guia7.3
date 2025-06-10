@@ -30,6 +30,8 @@ namespace ejercicio2
             promedio = acum / cont;
 
             Console.WriteLine("El promedio de los " + cont + " números es: " + promedio);
+
+            Console.ReadKey();
         }
     }
 }

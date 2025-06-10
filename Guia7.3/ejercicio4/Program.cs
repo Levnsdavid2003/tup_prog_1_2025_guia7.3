@@ -31,6 +31,8 @@ namespace ejercicio4
             Console.WriteLine($@"
     El número mayor fué: {mayor}
     El número menor fué: {menor}");
+
+            Console.ReadKey();
         }
     }
 }
